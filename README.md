@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Abdullah Al Kharusi 👋
 
-<!--
-**Abdullah-Kharusi/Abdullah-Kharusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
 
-Here are some ideas to get you started:
+I'm a Cybersecurity Specialist based in Muscat, Oman, with over four years of experience in enterprise IT and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing secure networks, troubleshooting complex infrastructure issues, and continuously improving my technical skills through hands-on labs.
+
+---
+
+## 💼 Current Focus
+
+- 🔐 Network Security
+- 🔥 Palo Alto Firewalls
+- 🌐 Aruba ClearPass
+- 🖧 Cisco Enterprise Networking
+- 🛡️ VPN & Secure Remote Access
+- ⚡ Enterprise Troubleshooting
+- 🤖 Security Automation
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Palo Alto
+- Aruba ClearPass
+- Python for Network Engineers
+- Enterprise Security Architecture
+- Git & GitHub
+- Security Automation
+
+---
+
+## 🏠 Home Lab
+
+I use my home lab to practice:
+
+- Firewall Policies
+- NAT
+- VPN
+- VLAN Segmentation
+- Active Directory
+- RADIUS Authentication
+- Network Troubleshooting
+
+---
+
+## 🎯 Career Goal
+
+Become a highly skilled Enterprise Network Security Engineer and continue progressing toward Security Architecture.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abd1ullah
