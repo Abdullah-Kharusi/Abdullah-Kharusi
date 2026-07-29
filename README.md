@@ -2,9 +2,13 @@
 
 ## 🛡️ About Me
 
-I'm a Cybersecurity Specialist based in Muscat, Oman, with over four years of experience in enterprise IT and cybersecurity.
+I'm Abdullah Al Kharusi, a Cybersecurity Specialist based in Muscat, Oman, with over four years of experience in enterprise IT and cybersecurity.
 
-I enjoy designing secure networks, troubleshooting complex infrastructure issues, and continuously improving my technical skills through hands-on labs.
+I enjoy solving complex networking and security challenges, building enterprise lab environments, and continuously expanding my expertise in Network Security, Cloud Security, and AI Security.
+
+I'm passionate about hands-on learning and documenting real-world labs, troubleshooting guides, and automation projects that help me grow as a security professional.
+
+I'm currently working toward becoming an Enterprise Security Architect with a strong focus on secure enterprise infrastructure, Zero Trust, cloud platforms, and AI-driven security.
 
 ---
 
@@ -64,6 +68,61 @@ To become an Enterprise Security Architect specializing in:
 My mission is to design secure, scalable, and resilient enterprise environments while continuously learning and sharing knowledge with the cybersecurity community.
 
 ---
+
+## 🛠️ Tech Stack
+<p align="left">
+
+<img src="https://img.shields.io/badge/Palo%20Alto-Networks-EF6C00?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Aruba-ClearPass-FF8300?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge"/>
+
+</p>
+
+### 🌐 Networking
+- Cisco Enterprise Networking
+- Aruba Switching & Wireless
+
+### 🔥 Network Security
+- Palo Alto Networks
+- Aruba ClearPass
+- VPN Technologies
+- Network Access Control (NAC)
+- Zero Trust Architecture
+
+### ☁️ Cloud & AI Security
+- AWS (Learning)
+- Microsoft Azure (Learning)
+- Cloud Security
+- AI Security
+
+### 💻 Operating Systems
+- Windows 
+- Windows Server
+- Linux
+- Mac OS
+
+### ⚙️ Automation & Tools
+- Python
+- Git
+- GitHub
+- VMware
+- EVE-NG
 
 ## 🌐 Connect With Me
 
