@@ -127,3 +127,17 @@ My mission is to design secure, scalable, and resilient enterprise environments 
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abd1ullah
+
+- ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Kharusi&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Kharusi&theme=tokyonight" />
+</p>
