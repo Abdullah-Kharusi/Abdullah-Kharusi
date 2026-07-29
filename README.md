@@ -11,23 +11,29 @@ I enjoy designing secure networks, troubleshooting complex infrastructure issues
 ## 💼 Current Focus
 
 - 🔐 Network Security
-- 🔥 Palo Alto Firewalls
+- ☁️ Cloud Security
+- 🤖 AI Security
+- 🔥 Palo Alto Networks
 - 🌐 Aruba ClearPass
 - 🖧 Cisco Enterprise Networking
-- 🛡️ VPN & Secure Remote Access
+- 🛡️ Zero Trust Architecture
+- 🔑 Identity & Access Management (IAM)
+- 🐍 Python Automation
 - ⚡ Enterprise Troubleshooting
-- 🤖 Security Automation
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Palo Alto
-- Aruba ClearPass
-- Python for Network Engineers
-- Enterprise Security Architecture
-- Git & GitHub
-- Security Automation
+- 🔥 Palo Alto Networks (PCNSA → PCNSE)
+- 🌐 F5 LTM, WAF, and GTM
+- 🔑 Aruba ClearPass
+- ☁️ Cloud Security (AWS & Azure)
+- 🤖 AI Security
+- 🐍 Python for Network Automation
+- 🔧 Git & GitHub
+- 🏗️ Enterprise Security Architecture
+- ⚙️ Security Automation
 
 ---
 
@@ -47,7 +53,15 @@ I use my home lab to practice:
 
 ## 🎯 Career Goal
 
-Become a highly skilled Enterprise Network Security Engineer and continue progressing toward Security Architecture.
+To become an Enterprise Security Architect specializing in:
+
+- 🔐 Network Security
+- ☁️ Cloud Security
+- 🤖 AI Security
+- 🛡️ Zero Trust Architecture
+- 🏢 Enterprise Infrastructure
+
+My mission is to design secure, scalable, and resilient enterprise environments while continuously learning and sharing knowledge with the cybersecurity community.
 
 ---
 
